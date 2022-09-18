@@ -1,0 +1,12 @@
+.StripeElement .StripeElement--complete{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cardField{
+    width: 100%;
+    height: 15px;
+
+}
